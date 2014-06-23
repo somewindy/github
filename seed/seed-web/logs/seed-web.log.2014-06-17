@@ -1,0 +1,16 @@
+[INFO] statusLine:HTTP/1.1 200 OK @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/17 20:06:18] 
+[INFO] return content:org.apache.http.conn.EofSensorInputStream@527736bd @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/17 20:06:18] 
+[INFO] statusLine:HTTP/1.1 200 OK @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/17 20:06:39] 
+[INFO] return content:org.apache.http.conn.EofSensorInputStream@2980f96c @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/17 20:06:39] 
+[DEBUG] statusLine:HTTP/1.1 200 OK @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/17 20:09:17] 
+[DEBUG] statusLine:HTTP/1.1 200 OK @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/17 20:09:30] 
+[INFO] return content:<html>
+<body>
+<h2>Hello World!</h2>
+</body>
+</html>
+ @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/17 20:09:30] 
+[DEBUG] statusLine:HTTP/1.1 200 OK @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/17 21:50:14] 
+[DEBUG] statusLine:HTTP/1.1 200 OK @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/17 22:52:10] 
+[INFO] return content:订单号重复，请勿重复提交订单
+ @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/17 22:52:10] 

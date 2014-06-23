@@ -1,0 +1,72 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.swf.seed</groupId>
+  <artifactId>seed</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+	
+	<modules>
+		<module>seed-mybatis</module>
+		<module>seed-test</module>
+		<module>seed-regex</module>
+		<module>seed-security</module>
+		<module>seed-util</module>
+		<module>seed-base</module>
+		<module>seed-file</module>
+		<module>seed-proxy</module>
+		<module>seed-web</module>
+	</modules>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  <dependencies>
+  	 <dependency>
+          <groupId>log4j</groupId>
+          <artifactId>log4j</artifactId>
+     </dependency>
+      <dependency>
+            <groupId>commons-logging</groupId>
+            <artifactId>commons-logging</artifactId>
+      </dependency>
+      <dependency>
+      	<groupId>org.swf.seed</groupId>
+      	<artifactId>seed-base</artifactId>
+      	<version>0.0.1-SNAPSHOT</version>
+      </dependency>
+  </dependencies>
+  
+  
+  <dependencyManagement>
+  	<dependencies>
+  	   <dependency>
+          <groupId>log4j</groupId>
+          <artifactId>log4j</artifactId>
+          <version>1.2.16</version>
+       </dependency>
+         <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>1.4</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-logging</groupId>
+            <artifactId>commons-logging</artifactId>
+            <version>1.1.1</version>
+        </dependency>
+         <dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.3.2</version>
+		</dependency>
+    </dependencies>
+  </dependencyManagement>
+  <developers>
+		<developer>
+			<id>joe</id>
+			<name>沈炜锋</name>
+			<email>somewindy@aliyun.com</email>
+		</developer>
+	</developers>
+</project>

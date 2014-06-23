@@ -1,0 +1,392 @@
+[DEBUG] statusLine:HTTP/1.1 403 Forbidden ( Forefront TMG æç»äºæå®çç»ä¸èµæºå®ä½å¨(URL)ã  ) @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 08:58:03] 
+[INFO] return content:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>éè¯¯æ¶æ¯</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<STYLE id=L_default_1>A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #005a80; FONT-FAMILY: å®ä½, tahoma
+}
+A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #0d3372; FONT-FAMILY: å®ä½, tahoma
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: å®ä½, tahoma
+}
+TD.titleBorder {
+	BORDER-RIGHT: #955319 1px solid; BORDER-TOP: #955319 1px solid; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; VERTICAL-ALIGN: middle; BORDER-LEFT: #955319 0px solid; COLOR: #955319; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: å®ä½, tahoma; HEIGHT: 35px; BACKGROUND-COLOR: #d2b87a; TEXT-ALIGN: left
+}
+TD.titleBorderx {
+	BORDER-RIGHT: #955319 0px solid; BORDER-TOP: #955319 1px solid; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; VERTICAL-ALIGN: middle; BORDER-LEFT: #955319 1px solid; COLOR: #978c79; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: å®ä½, tahoma; HEIGHT: 35px; BACKGROUND-COLOR: #d2b87a; TEXT-ALIGN: left
+}
+.TitleDescription {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: black; FONT-FAMILY: å®ä½, tahoma
+}
+SPAN.explain {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #934225
+}
+SPAN.TryThings {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #934225
+}
+.TryList {
+	MARGIN-TOP: 5px; FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: å®ä½, tahoma
+}
+.X {
+	BORDER-RIGHT: #955319 1px solid; BORDER-TOP: #955319 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 12pt; BORDER-LEFT: #955319 1px solid; COLOR: #7b3807; BORDER-BOTTOM: #955319 1px solid; FONT-FAMILY: å®ä½, verdana; BACKGROUND-COLOR: #d1c2b4
+}
+.adminList {
+	MARGIN-TOP: 2px
+}
+</STYLE>
+<META content="MSHTML 6.00.2800.1170" name=GENERATOR></HEAD>
+<BODY bgColor=#f3f3ed>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+  <TBODY>
+  <TR>
+    <TD class=titleBorderx width=30>
+      <TABLE height=25 cellSpacing=2 cellPadding=0 width=25 bgColor=black>
+        <TBODY>
+        <TR>
+          <TD id=L_default_x class=x valign=middle align=center>X</TD>
+        </TR>
+        </TBODY>
+      </TABLE>
+    </TD>
+    <TD class=titleBorder id=L_default_2>ç½ç»è®¿é®æ¶æ¯:<SPAN class=TitleDescription> æ æ³æ¾ç¤ºæ­¤é¡µ</SPAN> </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+<TABLE id=spacer>
+  <TBODY>
+  <TR>
+    <TD height=10></TD></TR></TBODY></TABLE>
+<TABLE width=400>
+  <TBODY>
+  <TR>
+    <TD noWrap width=25></TD>
+    <TD width=400><SPAN class=explain><ID id=L_default_3><B>è§£é:</B></ID></SPAN><ID id=L_default_4> è¯å¾è®¿é®çé¡µé¢åºç°é®é¢ï¼æ æ³æ¾ç¤ºæ­¤é¡µé¢ã </ID><BR><BR>
+    <B><SPAN class=tryThings><ID id=L_default_5><B>å°è¯ä¸å:</B></ID></SPAN></B> 
+      <UL class=TryList>
+        <LI id=L_default_6><B>å·æ°é¡µ:</B> åå»âå·æ°âæé®æ¥åæ¬¡æç´¢æ­¤é¡µãè¶æ¶å¯è½æ¯ç±äº Internet æ¥å¡é æçã
+<LI id=L_default_7><B>æ£æ¥æ¼å:</B> è¯·æ£æ¥æ¨æ¯å¦æ­£ç¡®é®å¥äºç½é¡µå°åãé®å¥çç½é¡µå°åä¸æ­£ç¡®ã
+<LI id=L_default_8><B>ä»é¾æ¥è®¿é®:</B> å¦ææä¸ä¸ªå°æ¨æ­£å¨æ¾çç½é¡µçé¾æ¥ï¼è¯·å°è¯ä»è¯¥é¾æ¥è®¿é®æ­¤é¡µã
+
+      </UL>
+<ID id=L_default_9>å¦ææ¨ä»ç¶çä¸å°è¯·æ±çé¡µé¢ï¼è¯·ä¸æ¨çç®¡çåææ¯æäººåèç³»ã</ID> <BR><BR>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+<TABLE id=spacer><TBODY><TR><TD height=15></TD></TR></TBODY></TABLE>
+
+<TABLE width=400>
+  <TBODY>
+  <TR>
+    <TD noWrap width=25></TD>
+    <TD width=400 id=L_default_10><B>ææ¯ä¿¡æ¯(æä¾ç»æ¯æäººå)</B> 
+      <UL class=adminList>
+        <LI id=L_default_11>éè¯¯ä»£ç : 403 ForbiddenãForefront TMG æç»äºæå®çç»ä¸èµæºå®ä½å¨(URL)ã (12202)
+<LI id=L_default_12>IP å°å: 113.31.81.110
+<LI id=L_default_13>æ¥æ: 2014/6/18 0:57:56 [GMT]
+<LI id=L_default_14>æå¡å¨: HSPROXY08.hs.handsome.com.cn
+<LI id=L_default_15>æº: ä»£ç
+
+      </UL>
+    </TD>
+  </TR>
+  </TBODY>
+</TABLE>
+
+</BODY>
+</HTML>
+
+ @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 08:58:03] 
+[DEBUG] statusLine:HTTP/1.1 200 OK @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 09:03:47] 
+[INFO] return content:<html>
+<body>
+<h2>Hello World!</h2>
+</body>
+</html>
+ @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 09:03:47] 
+[DEBUG] statusLine:HTTP/1.1 404 Not Found @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:40:37] 
+[INFO] return content:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Draft//EN">
+<HTML>
+<HEAD>
+<TITLE>Error 404--Not Found</TITLE>
+<META NAME="GENERATOR" CONTENT="WebLogic Server">
+</HEAD>
+<BODY bgcolor="white">
+<FONT FACE=Helvetica><BR CLEAR=all>
+<TABLE border=0 cellspacing=5><TR><TD><BR CLEAR=all>
+<FONT FACE="Helvetica" COLOR="black" SIZE="3"><H2>Error 404--Not Found</H2>
+</FONT></TD></TR>
+</TABLE>
+<TABLE border=0 width=100% cellpadding=10><TR><TD VALIGN=top WIDTH=100% BGCOLOR=white><FONT FACE="Courier New"><FONT FACE="Helvetica" SIZE="3"><H3>From RFC 2068 <i>Hypertext Transfer Protocol -- HTTP/1.1</i>:</H3>
+</FONT><FONT FACE="Helvetica" SIZE="3"><H4>10.4.5 404 Not Found</H4>
+</FONT><P><FONT FACE="Courier New">The server has not found anything matching the Request-URI. No indication is given of whether the condition is temporary or permanent.</p><p>If the server does not wish to make this information available to the client, the status code 403 (Forbidden) can be used instead. The 410 (Gone) status code SHOULD be used if the server knows, through some internally configurable mechanism, that an old resource is permanently unavailable and has no forwarding address.</FONT></P>
+</FONT></TD></TR>
+</TABLE>
+
+</BODY>
+</HTML>
+ @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:40:37] 
+[DEBUG] statusLine:HTTP/1.1 404 Not Found @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:41:09] 
+[INFO] return content:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Draft//EN">
+<HTML>
+<HEAD>
+<TITLE>Error 404--Not Found</TITLE>
+<META NAME="GENERATOR" CONTENT="WebLogic Server">
+</HEAD>
+<BODY bgcolor="white">
+<FONT FACE=Helvetica><BR CLEAR=all>
+<TABLE border=0 cellspacing=5><TR><TD><BR CLEAR=all>
+<FONT FACE="Helvetica" COLOR="black" SIZE="3"><H2>Error 404--Not Found</H2>
+</FONT></TD></TR>
+</TABLE>
+<TABLE border=0 width=100% cellpadding=10><TR><TD VALIGN=top WIDTH=100% BGCOLOR=white><FONT FACE="Courier New"><FONT FACE="Helvetica" SIZE="3"><H3>From RFC 2068 <i>Hypertext Transfer Protocol -- HTTP/1.1</i>:</H3>
+</FONT><FONT FACE="Helvetica" SIZE="3"><H4>10.4.5 404 Not Found</H4>
+</FONT><P><FONT FACE="Courier New">The server has not found anything matching the Request-URI. No indication is given of whether the condition is temporary or permanent.</p><p>If the server does not wish to make this information available to the client, the status code 403 (Forbidden) can be used instead. The 410 (Gone) status code SHOULD be used if the server knows, through some internally configurable mechanism, that an old resource is permanently unavailable and has no forwarding address.</FONT></P>
+</FONT></TD></TR>
+</TABLE>
+
+</BODY>
+</HTML>
+ @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:41:09] 
+[DEBUG] statusLine:HTTP/1.1 200 OK @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:41:39] 
+[INFO] return content:<HTML> <HEAD><TITLE>Deploying Application</TITLE> <META HTTP-EQUIV="content-type" CONTENT="text/html"/><META http-equiv="Refresh" content="2" /> </HEAD> <BODY> <H2> Deploying application for /console... </H2> <br/> This application is deployed on the first access. You can change this application to instead deploy during startup.<br/> Refer to instructions in the On-Demand Deployment documentation. </BODY> </HTML> @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:41:39] 
+[DEBUG] statusLine:HTTP/1.1 200 OK @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:48:54] 
+[INFO] return content:
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" >
+<title>Oracle WebLogic Server Administration Console</title>
+<link rel="stylesheet" type="text/css" href="/console/framework/skins/wlsconsole/css/general.css" >
+<link rel="stylesheet" type="text/css" href="/console/framework/skins/wlsconsole/css/window.css" >
+<link rel="stylesheet" type="text/css" href="/console/css/login.css" >
+</head>
+<body onload="document.loginData.j_username.focus();">
+  <div id="outer">
+  <div id="content">
+    <div id="logo">
+      
+      <img id="console-title" src="/console/framework/skins/wlsconsole/images/ConsoleTitle2l.gif" alt="Oracle WebLogic Server Administration Console ">
+    </div>
+    <div id="login">
+      <div class="wlsc-frame">
+        <div class="top">
+          <div><div>&nbsp;</div></div>
+        </div>
+        <div class="middle">
+          <div class="r">
+            <div class="c"><div class="c2">
+              <div class="wlsc-titlebar">
+                <div class="float-container">
+                  <div class="wlsc-titlebar-title-panel">
+                    Welcome
+                  </div>
+                  <div class="wlsc-titlebar-button-panel">&#160;</div>
+                </div>
+              </div>
+              <div class="wlsc-window-content">
+
+    <form id="loginData" name="loginData" method="post" action="/console/j_security_check">
+      <div class="message-row">
+        
+        
+        
+          <p>Log in to work with the WebLogic Server domain</p>
+        
+        
+      </div>
+      <div class="input-row">
+        <label for="j_username">
+        Username:</label>
+        <span class="ctrl">
+          <input class="textinput" type="text" name="j_username" id="j_username">
+        </span>
+      </div>
+      <div class="input-row">
+        <label for="j_password">
+          Password:</label>
+        <span class="ctrl">
+          <input class="textinput" type="password" name="j_password" id="j_password">
+        </span>
+      </div>
+      <div class="button-row">
+        <span class="ctrl">
+          <input class="formButton" type="submit" 
+            onclick="form.submit();this.disabled=true;document.body.style.cursor = 'wait'; this.className='formButton-disabled';"
+            value='Log In'>
+        </span>
+        <input type="hidden" name="j_character_encoding" value="UTF-8">
+      </div>
+    </form>
+
+              </div>
+              <div class="notice-row">
+                <p>It is recommended that users log out when finished with the Administration Console or when visiting an untrusted site.</p>
+              </div>
+            </div>
+           </div>
+          </div>
+        </div>
+        <div class="bottom">
+          <div><div>&nbsp;</div></div>
+        </div>
+        
+      </div>
+      
+            <div class="login-footer">
+             <div class="info">
+              
+              <p id="footerVersion">WebLogic Server Version: 10.3.0.0</p>
+              <p id="copyright">Copyright &copy; 1996,2008, Oracle and/or its affiliates. All rights reserved.</p>
+              <p id="trademark">Oracle is a registered trademark of Oracle Corporation and/or its affiliates. Other names may be trademarks of their respective owners.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+ @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:48:54] 
+[DEBUG] statusLine:HTTP/1.1 200 OK @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:49:18] 
+[INFO] return content:
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" >
+<title>Oracle WebLogic Server Administration Console</title>
+<link rel="stylesheet" type="text/css" href="/console/framework/skins/wlsconsole/css/general.css" >
+<link rel="stylesheet" type="text/css" href="/console/framework/skins/wlsconsole/css/window.css" >
+<link rel="stylesheet" type="text/css" href="/console/css/login.css" >
+</head>
+<body onload="document.loginData.j_username.focus();">
+  <div id="outer">
+  <div id="content">
+    <div id="logo">
+      
+      <img id="console-title" src="/console/framework/skins/wlsconsole/images/ConsoleTitle2l.gif" alt="Oracle WebLogic Server Administration Console ">
+    </div>
+    <div id="login">
+      <div class="wlsc-frame">
+        <div class="top">
+          <div><div>&nbsp;</div></div>
+        </div>
+        <div class="middle">
+          <div class="r">
+            <div class="c"><div class="c2">
+              <div class="wlsc-titlebar">
+                <div class="float-container">
+                  <div class="wlsc-titlebar-title-panel">
+                    Welcome
+                  </div>
+                  <div class="wlsc-titlebar-button-panel">&#160;</div>
+                </div>
+              </div>
+              <div class="wlsc-window-content">
+
+    <form id="loginData" name="loginData" method="post" action="/console/j_security_check">
+      <div class="message-row">
+        
+        
+        
+          <p>Log in to work with the WebLogic Server domain</p>
+        
+        
+      </div>
+      <div class="input-row">
+        <label for="j_username">
+        Username:</label>
+        <span class="ctrl">
+          <input class="textinput" type="text" name="j_username" id="j_username">
+        </span>
+      </div>
+      <div class="input-row">
+        <label for="j_password">
+          Password:</label>
+        <span class="ctrl">
+          <input class="textinput" type="password" name="j_password" id="j_password">
+        </span>
+      </div>
+      <div class="button-row">
+        <span class="ctrl">
+          <input class="formButton" type="submit" 
+            onclick="form.submit();this.disabled=true;document.body.style.cursor = 'wait'; this.className='formButton-disabled';"
+            value='Log In'>
+        </span>
+        <input type="hidden" name="j_character_encoding" value="UTF-8">
+      </div>
+    </form>
+
+              </div>
+              <div class="notice-row">
+                <p>It is recommended that users log out when finished with the Administration Console or when visiting an untrusted site.</p>
+              </div>
+            </div>
+           </div>
+          </div>
+        </div>
+        <div class="bottom">
+          <div><div>&nbsp;</div></div>
+        </div>
+        
+      </div>
+      
+            <div class="login-footer">
+             <div class="info">
+              
+              <p id="footerVersion">WebLogic Server Version: 10.3.0.0</p>
+              <p id="copyright">Copyright &copy; 1996,2008, Oracle and/or its affiliates. All rights reserved.</p>
+              <p id="trademark">Oracle is a registered trademark of Oracle Corporation and/or its affiliates. Other names may be trademarks of their respective owners.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html> @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:49:18] 
+[INFO] return content:
+<html><head><title>302 Moved Temporarily</title></head>
+<body bgcolor="#FFFFFF">
+<p>This document you requested has moved temporarily.</p>
+<p>It's now at <a href="http://192.168.52.139:7013/console/">http://192.168.52.139:7013/console/</a>.</p>
+</body></html> @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:53:54] 
+[INFO] return content:
+<html><head><title>302 Moved Temporarily</title></head>
+<body bgcolor="#FFFFFF">
+<p>This document you requested has moved temporarily.</p>
+<p>It's now at <a href="http://192.168.52.139:7013/console/login/LoginForm.jsp">http://192.168.52.139:7013/console/login/LoginForm.jsp</a>.</p>
+</body></html> @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:56:17] 
+[INFO] return content:
+<html><head><title>302 Moved Temporarily</title></head>
+<body bgcolor="#FFFFFF">
+<p>This document you requested has moved temporarily.</p>
+<p>It's now at <a href="http://192.168.52.139:7013/console/login/LoginForm.jsp">http://192.168.52.139:7013/console/login/LoginForm.jsp</a>.</p>
+</body></html> @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:57:13] 
+[INFO] return content:
+<html><head><title>302 Moved Temporarily</title></head>
+<body bgcolor="#FFFFFF">
+<p>This document you requested has moved temporarily.</p>
+<p>It's now at <a href="http://192.168.52.139:7013/console/login/LoginForm.jsp">http://192.168.52.139:7013/console/login/LoginForm.jsp</a>.</p>
+</body></html> @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:58:42] 
+[INFO] return content:
+<html><head><title>302 Moved Temporarily</title></head>
+<body bgcolor="#FFFFFF">
+<p>This document you requested has moved temporarily.</p>
+<p>It's now at <a href="http://192.168.52.139:7013/console/login/LoginForm.jsp">http://192.168.52.139:7013/console/login/LoginForm.jsp</a>.</p>
+</body></html> @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:58:59] 
+[INFO] return content:
+<html><head><title>302 Moved Temporarily</title></head>
+<body bgcolor="#FFFFFF">
+<p>This document you requested has moved temporarily.</p>
+<p>It's now at <a href="http://192.168.52.139:7013/console/login/LoginForm.jsp">http://192.168.52.139:7013/console/login/LoginForm.jsp</a>.</p>
+</body></html> @ com.swf.seed.web.httpclient.HttpClientUtils [2014/06/18 11:59:30] 

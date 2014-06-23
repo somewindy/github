@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xsi:schemaLocation="http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!-- Controller Bean 注册 -->
+	<context:component-scan base-package="com.hundsun.fund.ecs.controller">
+        <context:include-filter type="annotation" expression="org.springframework.stereotype.Controller" />
+	</context:component-scan>
+
+    <!-- Partner 拦截器注册 -->
+    <context:component-scan base-package="com.hundsun.fund.ecs.partner">
+        <context:include-filter type="annotation" expression="com.hundsun.fund.ecs.partner.common.annotation.PartnerMapping" />
+    </context:component-scan>
+
+    <!-- Message 转换器注册 -->
+    <mvc:annotation-driven>
+        <mvc:argument-resolvers>
+            <bean class="com.hundsun.fund.ecs.partner.common.convert.OpenAPIArgumentResolver" />
+        </mvc:argument-resolvers>
+        <mvc:return-value-handlers>
+            <bean class="com.hundsun.fund.ecs.partner.common.convert.OpenAPIReturnValueHandler" />
+        </mvc:return-value-handlers>
+    </mvc:annotation-driven>
+
+    <!-- 第三方拦截桥接器 -->
+    <mvc:interceptors>
+        <bean class="com.hundsun.fund.ecs.partner.common.interceptor.support.InterceptorBirdge" />
+    </mvc:interceptors>
+
+</beans>
